@@ -1,4 +1,4 @@
-### Hi Everyone 👋
+### Hi Everyone 👋 🧑‍💻
 ---
 I'm Andrea Pellegrino (I use the nickname andry2327 online) and I'm currently in **Data Science and Engineering** master's program at Politecnico di Torino. 
 My journey started with a Bachelor's degree in **Computer Engineering** from the same place.
@@ -9,23 +9,22 @@ My studies are now focused on Machine Learning, Deep Learning and Data Processin
  - Bachelor of Science in Computer Engineering @ `Politecnico di Torino`
 
 :pushpin: **Projects:**
- - ['PoliTo - Semantic Segmentation for Waste sorting'](https://github.com/andry2327/Project-4B---Semantic-Segmentation-for-Waste-sorting)
- - ['PoliTo - Intent Detection in Speech Recognition'](https://github.com/andry2327/DSL-Winter-Project-2022-2023)
- - ['SureBetting Bot'](https://github.com/andry2327/SureBetting-Bot)
- - ['Sir.DDaily'](https://github.com/andry2327/Sir.DDaily)
+ - [PoliTo - 'Semantic Segmentation for Waste sorting'](https://github.com/andry2327/Project-4B---Semantic-Segmentation-for-Waste-sorting)
+ - [PoliTo - 'Intent Detection in Speech Recognition'](https://github.com/andry2327/DSL-Winter-Project-2022-2023)
+ - [SureBetting Bot](https://github.com/andry2327/SureBetting-Bot)
+ - [Sir.DDaily](https://github.com/andry2327/Sir.DDaily)
+
+:loudspeaker: **Contacts:**
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuelsalamino/)
+- `manuelsalamino@gmail.com`
 
 
-<!--
-**andry2327/andry2327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:boy: **About me:**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning how to get prepared for a job interview
+- 🔭 I worked on Anomaly Detection field during my Master Thesis
+- :musical_note: I listen a lot of music
+- :running: I do a lot of sport
+- :cocktail: I worked as bartender in wedding and birthday parties during my Bachelor's and Master's Degree
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
