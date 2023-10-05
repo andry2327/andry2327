@@ -14,6 +14,8 @@ My studies are now focused on Machine Learning, Deep Learning and Data Processin
  - [SureBetting Bot](https://github.com/andry2327/SureBetting-Bot)
  - [Sir.DDaily](https://github.com/andry2327/Sir.DDaily)
 
+
+<!---
 :loudspeaker: **Contacts:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuelsalamino/)
 - `manuelsalamino@gmail.com`
@@ -26,5 +28,5 @@ My studies are now focused on Machine Learning, Deep Learning and Data Processin
 - :musical_note: I listen a lot of music
 - :running: I do a lot of sport
 - :cocktail: I worked as bartender in wedding and birthday parties during my Bachelor's and Master's Degree
-
+--->
 
