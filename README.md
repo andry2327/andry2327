@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi Everyone 👋
+---
+I'm Andrea Pellegrino (I use the nickname andry2327 online) and I'm currently in Data Science and Engineering master's program at Politecnico di Torino. 
+My journey started with a Bachelor's degree in Computer Engineering from the same place
 
 <!--
 **andry2327/andry2327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
